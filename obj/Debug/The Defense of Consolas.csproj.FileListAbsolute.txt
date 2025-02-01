@@ -1,0 +1,7 @@
+C:\Users\ERC\Desktop\C#\The Defense of Consolas\The Defense of Consolas\bin\Debug\The Defense of Consolas.exe.config
+C:\Users\ERC\Desktop\C#\The Defense of Consolas\The Defense of Consolas\bin\Debug\The Defense of Consolas.exe
+C:\Users\ERC\Desktop\C#\The Defense of Consolas\The Defense of Consolas\bin\Debug\The Defense of Consolas.pdb
+C:\Users\ERC\Desktop\C#\The Defense of Consolas\The Defense of Consolas\obj\Debug\The Defense of Consolas.csproj.AssemblyReference.cache
+C:\Users\ERC\Desktop\C#\The Defense of Consolas\The Defense of Consolas\obj\Debug\The Defense of Consolas.csproj.CoreCompileInputs.cache
+C:\Users\ERC\Desktop\C#\The Defense of Consolas\The Defense of Consolas\obj\Debug\The Defense of Consolas.exe
+C:\Users\ERC\Desktop\C#\The Defense of Consolas\The Defense of Consolas\obj\Debug\The Defense of Consolas.pdb
